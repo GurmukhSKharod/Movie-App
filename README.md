@@ -20,6 +20,6 @@ This app is both desktop and mobile friendly.
 
 ## Netlify
 
-This App is actively running via netlify: https://movie-app-gsk.netlify.app
+This App is actively running via netlify: https://movie-app-gsk.netlify.app  
 When uploading to Netlify, https protocol needed to be used for proper app functionality. 
 
